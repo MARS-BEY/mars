@@ -1,2 +1,2 @@
 # mars
-ilk deneyeim
+ilk deneyim
